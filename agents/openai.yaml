@@ -1,0 +1,7 @@
+interface:
+  display_name: "分层矢量提炼"
+  short_description: "把图片提炼成可编辑分层 SVG 与 Illustrator AI 文件"
+  default_prompt: "Use $layered-vector-extractor to convert this image into clean, editable, layered vector artwork."
+
+policy:
+  allow_implicit_invocation: true
